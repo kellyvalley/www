@@ -12,7 +12,7 @@ slug: faq
 
 ### 3. 时间，地点，人数
 时间：每周日下午6:30-9:00，
-地址：635 High St., Palo Alto, CA（感谢Weihan Wang免费提供场地）
+地址：635 High St., Palo Alto, CA（感谢Weihan Wang免费提供场地）。如果人数太多，场地会另外通知。
 人数：每次20-40人不等
 
 ### 4. 停车地点和Carpool
@@ -28,7 +28,8 @@ slug: faq
 过往和将来几期分享的书目[Google doc](http://goo.gl/k8CgKM)和[文宣汇总](http://goo.gl/OTYGdA)
 
 ### 7. 读书会后有总结吗
-读书会每次分享有专人做笔记并整理，往期笔记请点击Group的Cover picture下方的[Files](https://www.facebook.com/groups/ValleyRain/files/)
+读书会每次分享有专人做笔记并整理，往期笔记请点击Group的Cover picture下方的[Files](https://www.facebook.com/groups/ValleyRain/files/)。
+另外，我们在试验用[wiki](https://github.com/valleyrain-org/www/wiki)来协作编辑笔记，也希望各位书友参与完善。
 
 ### 8. 读书会能借书吗
 读书会设立小型图书馆，书籍由书友提供。目前供借阅的[书籍目录](http://goo.gl/Kt9HCV)
@@ -37,7 +38,7 @@ slug: faq
 基于版权原因，读书会不提供电子书下载。
 
 ### 9. 读书会有网站吗
-读书会网站正在建设中，即将开放。读书会设立本Facebook Group和微信群共线上讨论交流。加微信群请联系微信账号woneng1314
+读书会网站[www.valleyrain.org](www.valleyrain.org)正在建设中，也希望大家多提意见。读书会设立本Facebook Group和微信群共线上讨论交流。加微信群请联系微信账号woneng1314
 
 ### 10. 没有读过书的可以来吗
 不论有没有读过书，我们欢迎任何有兴趣的朋友参加。但是我们的讨论会围绕书本进行，大家都读过书的话讨论会更有质量。
