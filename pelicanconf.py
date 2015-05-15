@@ -6,7 +6,7 @@ import os
 DEFAULT_LANG = u'zh'
 AUTHOR = u'valleyrain'
 SITENAME = {'en': 'Valley Rain Reading Club', 'zh':'谷雨书苑'}[DEFAULT_LANG]
-SITEURL = ''
+SITEURL = 'http://www.valleyrain.org'
 
 TIMEZONE = 'America/Los_Angeles'
 
