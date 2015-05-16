@@ -10,17 +10,17 @@ slug: faq
 ### 2. 读书会都有哪些人参加
 读书会目前主要是面向湾区广大华人，包括各个年龄段，来自不同领域。
 
-### 3. 时间，地点，人数
-时间：每周日下午6:30-9:00，
-地址：635 High St., Palo Alto, CA（感谢Weihan Wang免费提供场地）。如果人数太多，场地会另外通知。
-人数：每次20-40人不等
+### 3. 时间，人数，地点
+时间：每周日下午6:30-9:00<br/>
+人数：每次20-40人不等<br/>
+地点：635 High St., Palo Alto, CA（感谢Weihan Wang免费提供场地）。如果人数太多，场地会另外通知。
 
 ### 4. 停车地点和Carpool
 读书会门口提供非常有限的停车位，附近有免费public parking lot和garage地址：Palo Alto Garage R, 528 High St, Pala Alto
 目前我们有东湾，南湾和SF Carpool微信群，请扫描本文附件二维码加入。
 
 ### 5. 读书会是什么样的形式
-读书会每周会分享一本书，由一名或多名主讲提供分享，其他人自由参与讨论。主讲人为书友自荐。有意愿担任主讲的书友，请与Raymond联系。
+读书会每周会分享一本书，主要由一名或多名主讲提供分享，其他人自由参与讨论。主讲人为书友自荐。有意愿担任主讲的书友，请与Raymond联系。
 希望听别人分享的图书书目，可以在[这里](http://goo.gl/Trle5U)登记。
 
 ### 6. 读书会一般分享什么书
@@ -38,7 +38,7 @@ slug: faq
 基于版权原因，读书会不提供电子书下载。
 
 ### 9. 读书会有网站吗
-读书会网站[www.valleyrain.org](www.valleyrain.org)正在建设中，也希望大家多提意见。读书会设立本Facebook Group和微信群共线上讨论交流。加微信群请联系微信账号woneng1314
+读书会网站[www.valleyrain.org](www.valleyrain.org)正在建设中，也希望大家多提[意见](http://www.valleyrain.org/pages/feedback.html)。读书会也有[Facebook Group](http://www.facebook.com/groups/ValleyRain)和[微信群](http://weixin.qq.com/g/AduHOh9yLie7It1V)供线上讨论交流。加微信群请联系微信账号[woneng1314](http://weixin.qq.com/r/NIjVzcvEBZZ6rY_u990m)。
 
 ### 10. 没有读过书的可以来吗
 不论有没有读过书，我们欢迎任何有兴趣的朋友参加。但是我们的讨论会围绕书本进行，大家都读过书的话讨论会更有质量。
