@@ -31,11 +31,8 @@ RELATIVE_URLS = True
 
 MD_EXTENSIONS = (['toc'])
 
-LOCALE = ('zh_CN.utf8', 'en_US.utf8')
-DATE_FORMATS = {
-	'en': ('en_US.utf8', '%x'),
-	'zh': ('zh_CN.utf8', '%x'),
-}
+LOCALE = ('zh_CN.UTF-8')
+DATE_FORMATS = { 'zh': ('zh_CN.UTF-8', '%x') }
 
 # Use bootstrap3 theme
 THEME = 'themes/pelican-bootstrap3'
