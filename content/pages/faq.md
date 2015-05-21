@@ -29,7 +29,6 @@ slug: faq
 
 ### 7. 读书会后有总结吗
 读书会每次分享有专人做笔记并整理，往期笔记请点击Group的Cover picture下方的[Files](https://www.facebook.com/groups/ValleyRain/files/)。
-另外，我们在试验用[wiki](https://github.com/valleyrain-org/www/wiki)来协作编辑笔记，也希望各位书友参与完善。
 
 ### 8. 读书会能借书吗
 读书会设立小型图书馆，书籍由书友提供。目前供借阅的[书籍目录](http://goo.gl/Kt9HCV)
