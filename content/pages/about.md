@@ -1,7 +1,7 @@
 title: 关于我们
 slug: about
 
-![logo](images/2015-03-22-1.jpg)
+![logo](../images/logo.jpg)
 
 ## 我们的使命和任务
 谷雨书苑是一个立足于美国旧金山湾区，面向广大华人社区的自发性的读书分享团体。
