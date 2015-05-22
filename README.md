@@ -14,7 +14,7 @@ First:
 
 Then:
 
-`pip install pelican markdown beautifulsoup4`
+`pip install pelican markdown beautifulsoup4 ghp-import`
 
 ## Test
 
